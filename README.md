@@ -59,9 +59,9 @@ Script akan otomatis mendeteksi apakah baris pertama adalah header.
 
 ## Fitur
 
-✓ Membaca email dari kolom pertama
-✓ Generate password dengan panjang yang bisa disesuaikan
-✓ 3 tipe password: alfabet, numerik, alfanumerik
-✓ File asli tetap aman (hasil disimpan di file baru)
-✓ Deteksi header otomatis
-✓ Error handling yang baik
+- ✓ Membaca email dari kolom pertama
+- ✓ Generate password dengan panjang yang bisa disesuaikan
+- ✓ 3 tipe password: alfabet, numerik, alfanumerik
+- ✓ File asli tetap aman (hasil disimpan di file baru)
+- ✓ Deteksi header otomatis
+- ✓ Error handling yang baik
