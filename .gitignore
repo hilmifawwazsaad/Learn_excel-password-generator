@@ -1,0 +1,33 @@
+# File Excel khusus (data testing)
+Backup Email to prodv2.xlsx
+prodv1.xlsx
+result-prodv1.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
